@@ -1,5 +1,1 @@
-
-Sample image template:
-<img src="https://github.com/dataset-ninja/gland-segmentation/assets/78355358/f158d0dd-71d5-41a2-aba5-4a5f57d54c35" alt="image" width="800">
-
-<span style="font-size: smaller; font-style: italic;">Image description.</span>
+Authors introduce the **Vehicle Dataset for YOLO**, a meticulously curated collection of labeled images that assembles a diverse range of vehicle types, rendering it a valuable resource for computer vision and object detection enthusiasts. This dataset consists of a total of 3000 images, with 2100 designated for *train* and 900 for *valid*. It has been constructed by amalgamating data from various sources, including Kaggle, the [Stanford Car Dataset](https://paperswithcode.com/dataset/stanford-cars), and web scraping, ensuring a rich and varied set of examples. This dataset encompasses six distinct classes: *car*, *threewheel*, *bus*, *truck*, *motorbike*, and *van*, presenting numerous opportunities for the development and refinement of YOLO-based models tailored for vehicle detection tasks.
